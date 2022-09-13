@@ -1,1 +1,1 @@
-# bootcamp-s-task-1
+# bootcamp-task-1
